@@ -24,18 +24,8 @@ RUN npm uninstall sharp --legacy-peer-deps && \
 
 COPY . .
 
-# Step 5: Fetch and apply patches from private repo
-ARG GITHUB_PAT
-RUN if [ -n "$GITHUB_PAT" ]; then \
-      curl -fsSL \
-        -H "Authorization: token $GITHUB_PAT" \
-        https://raw.githubusercontent.com/mzeeemzimanjejeje/Maintaining/main/scripts/patch-baileys.cjs \
-        -o /tmp/patch-baileys.cjs && \
-      node /tmp/patch-baileys.cjs && \
-      rm -f /tmp/patch-baileys.cjs; \
-    else \
-      echo "GITHUB_PAT not set - skipping patches"; \
-    fi
+# Step 5: Apply patches to fix owner commands, group replies, session errors
+RUN node scripts/patch-baileys.cjs
 
 EXPOSE 3000 5000
 
