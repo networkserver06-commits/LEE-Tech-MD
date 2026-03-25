@@ -4,8 +4,8 @@
 
 <img src="https://files.catbox.moe/40w8h4.jpg" width="400"/>
 
-<a href="https://whatsapp.com/channel/0029VbCafMZBA1f42UxcYW0D">
-  <img src="https://img.shields.io/badge/TRUTH%20MD-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="150"/>
+<a href="https://chat.whatsapp.com/LXNBdhOhC30Dsl6uRKJ6G6">
+  <img src="https://img.shields.io/badge/LEE%20TECH-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="150"/>
 </a>
 <br/><strong>WHATSAPP</strong>
 
