@@ -1,7 +1,7 @@
 {
-  "name": "truth-md",
+  "name": "lee tech-md",
   "version": "1.0.6",
-  "description": "TRUTH-MD Bot Relay",
+  "description": "LEE Tech-MD Bot Relay",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
