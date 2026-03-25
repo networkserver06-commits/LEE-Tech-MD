@@ -25,13 +25,13 @@
 
 <br/>
 
-<a href="https://lee-technet.vercel.app//">
+<a href="https://truthsite.courtneytech.xyz/">
   <img src="https://img.shields.io/badge/CLICK%20HERE-DC143C?style=for-the-badge&logo=heroku&logoColor=white" height="100"/>
 </a>
 <br/><strong>SESSION ID & DEPLOYMENTS</strong>
 
 <br/><br/>
 
-<img src="https://files.catbox.moe/40w8h4.jpg/?username=Lee Tech &color=blue" alt="Views"/>
+<img src="https://komarev.com/ghpvc/?username=Courtney250&color=blue" alt="Views"/>
 
 </div>
