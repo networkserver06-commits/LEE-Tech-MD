@@ -1,15 +1,15 @@
 {
-  "name": "TRUTH-MD",
-  "description": "TRUTH MD WhatsApp Bot",
-  "logo": "https://i.ibb.co/nqsRcKDB/Xploader4.jpg",
+  "name": "LEE Tech-MD",
+  "description": "LEE Tech-MD WhatsApp Bot",
+  "logo": "https://files.catbox.moe/40w8h4.jpg",
   "keywords": [
     "whatsapp-bot"
   ],
-  "repository": "https://github.com/Courtney250/TRUTH-MD",
+  "repository": "https://github.com/networkserver06-commits/LEE-Tech-MD",
   "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Your WhatsApp session ID (must start with TRUTH-MD:~)",
+      "description": "Your WhatsApp session ID (must start with lee Tech-md:~)",
       "required": false
     }
   },
